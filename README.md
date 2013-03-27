@@ -6,3 +6,5 @@ porta = 3128
 
 user = tia
 senha = senhadeweb
+
+update;
